@@ -18,4 +18,11 @@ pdf [Schematic_ATmega328PB_AM1805_SX1276_2022-02-24.pdf](Schematic_ATmega328PB_A
 
 ### hostware  
 ![setRTC.exe](setRTC.exe)  
-COM11 only, read PC host date, dump to MCU, MCU will set RTC AM1805  
+COM11 only, read PC host date, dump to MCU, MCU will set RTC, reset AM1805.  
+
+or termnial program realterm [https://sourceforge.net/projects/realterm/](https://sourceforge.net/projects/realterm/)  
+dump setting file for testing as following, 
+[2022-06-22_235950.txt](2022-06-22_235950.txt)  
+[2052-02-09_235950.txt](2052-02-09_235950.txt)  
+[2099-12-31_235950.txt](2099-12-31_235950.txt)  
+
