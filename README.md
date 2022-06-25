@@ -16,4 +16,6 @@ pdf [Schematic_ATmega328PB_AM1805_SX1276_2022-02-24.pdf](Schematic_ATmega328PB_A
 ![Schematic_ATmega328PB_AM1805_SX1276_2022-02-24.png](Schematic_ATmega328PB_AM1805_SX1276_2022-02-24.png)  
 
 
-
+### hostware  
+![setRTC.exe](setRTC.exe)  
+COM11 only, read PC host date, dump to MCU, MCU will set RTC AM1805  
