@@ -48,5 +48,14 @@ photo\pcba\
 public\2022-06-22_RS232_C\setRTC\release  
 public\2022-06-19_LoRa\CoolTermWin  
 
+### hints, software reset AM1805B
+5.15 Software Reset
+Software may reset the AM18X5 by writing the special value of 0x3C to the Configuration Key register at
+offset 0x1F. This will provide the equivalent of a power on reset by initializing all of the AM18X5 registers.
+A software reset will not cause the nRST signal the be asserted.
+see datasheet throughtly.
+[Artasie-AM18X5-RTC-Datasheet_REV1.3_2019-FEB.pdf](Artasie-AM18X5-RTC-Datasheet_REV1.3_2019-FEB.pdf)  
+
+
 
 
