@@ -26,3 +26,9 @@ dump setting file for testing as following,
 [2052-02-09_235950.txt](2052-02-09_235950.txt)  
 [2099-12-31_235950.txt](2099-12-31_235950.txt)  
 
+
+### MCU setup and firmware burn  
+connect usbtiny avr programmer, burn firmware to MCU,  
+click and run the [burn.bat](burn.bat), job will be done   
+firmware [AB1805.ino_atmega328pb_1000000L.hex](AB1805.ino_atmega328pb_1000000L.hex)  
+
