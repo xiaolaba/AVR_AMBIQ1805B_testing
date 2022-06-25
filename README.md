@@ -38,13 +38,13 @@ library, original copy, https://github.com/stevenlianyi/Arduino-AB1805-AM105
 library patched, 
 [AB1805.cpp](AB1805.cpp), [AB1805.h](AB1805.h), [AM1805_reg_map.h](AM1805_reg_map.h)  
 public\2022-06-19_LoRa\AB1805\release  
-LoRa_328pb_dump_oringial
-LoRaDumpRegisters_test
-LoRaDuplex_test
-LoRaReceiver_test
-LoRaSimpleNode_test
+LoRa_328pb_dump_oringial  
+LoRaDumpRegisters_test  
+LoRaDuplex_test  
+LoRaReceiver_test  
+LoRaSimpleNode_test  
 public\2022-06-22_RS232_C\setRTC\release  
-public\2022-06-19_LoRa\CoolTermWin
+public\2022-06-19_LoRa\CoolTermWin  
 
 
 
