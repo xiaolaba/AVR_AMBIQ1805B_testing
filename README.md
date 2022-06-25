@@ -43,6 +43,8 @@ LoRaDumpRegisters_test
 LoRaDuplex_test  
 LoRaReceiver_test  
 LoRaSimpleNode_test  
+photo\schematic\
+photo\pcba\
 public\2022-06-22_RS232_C\setRTC\release  
 public\2022-06-19_LoRa\CoolTermWin  
 
