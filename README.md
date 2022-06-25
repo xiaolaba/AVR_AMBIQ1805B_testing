@@ -32,3 +32,19 @@ connect usbtiny avr programmer, burn firmware to MCU,
 click and run the [burn.bat](burn.bat), job will be done   
 firmware [AB1805.ino_atmega328pb_1000000L.hex](AB1805.ino_atmega328pb_1000000L.hex)  
 
+
+### project folders
+library, original copy, https://github.com/stevenlianyi/Arduino-AB1805-AM105  
+library patched, 
+[AB1805.cpp](AB1805.cpp), [AB1805.h](AB1805.h), [AM1805_reg_map.h](AM1805_reg_map.h)  
+public\2022-06-19_LoRa\AB1805\release  
+LoRa_328pb_dump_oringial
+LoRaDumpRegisters_test
+LoRaDuplex_test
+LoRaReceiver_test
+LoRaSimpleNode_test
+public\2022-06-22_RS232_C\setRTC\release  
+public\2022-06-19_LoRa\CoolTermWin
+
+
+
