@@ -11,5 +11,9 @@ AVR_AMBIQ1805_testing
 no calibration, XT mode, RTC has extra counts 240 seconds about 20 minutes later, propotion to an hour, it would be 720 seconds roughly.
 ![5V_fast_RTC.JPG](5V_fast_RTC.JPG)  
 
+### circuit
+pdf [Schematic_ATmega328PB_AM1805_SX1276_2022-02-24.pdf](Schematic_ATmega328PB_AM1805_SX1276_2022-02-24.pdf)  
+![Schematic_ATmega328PB_AM1805_SX1276_2022-02-24.png](Schematic_ATmega328PB_AM1805_SX1276_2022-02-24.png)  
+
 
 
