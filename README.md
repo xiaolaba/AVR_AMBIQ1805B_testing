@@ -57,4 +57,6 @@ see datasheet throughtly.
 
 
 
+### [AB1805.ino_atmega328pb_1000000L_115200BAUD_CAL.hex](AB1805.ino_atmega328pb_1000000L_115200BAUD_CAL.hex)
+special firmware, dump OSCCAL to terminal, baud rate 115200 N81
 
